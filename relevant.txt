@@ -1,0 +1,20 @@
+RELEVANT ATTRIBUTES
+age
+traveltime
+studytime
+failures
+schoolsup
+famsup
+paid
+activities
+higher
+internet
+romantic
+freetime
+goout
+Dalc
+health
+absences
+G1
+G2
+G3
